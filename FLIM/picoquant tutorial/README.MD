@@ -1,1 +1,0 @@
-All these files were not created by me (Alan in the stranks group). They give some good examples of what you can do using Picoquant. The data for the tutorial can be found here https://drive.google.com/file/d/14b1U5bTsgGE5K5_x4VClocblgccCO4MI/view?usp=sharing (too large to put in github). 
